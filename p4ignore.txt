@@ -1,0 +1,15 @@
+*.sln
+*.vcxproj
+*.vcxproj.filters
+.vs
+*.suo
+*.opensdf
+*.sdf
+*.pdb
+*-Debug.dll
+*.xcodeproj
+.\Makefile
+.\CMakeLists.txt
+
+\Debug\*
+\Release\*
